@@ -6,7 +6,7 @@ require 'gene_names/version'
 Gem::Specification.new do |spec|
   spec.name          = "gene_names"
   spec.version       = GeneNames::VERSION
-  spec.authors       = ["Eric Harrison"]
+  spec.authors       = ["Eric Harrison", "SmashTank Apps"]
   spec.email         = ["eharrison@smashtankapps.com"]
   spec.summary       = %q{Gem for access to genenames.org api}
   spec.description   = %q{}

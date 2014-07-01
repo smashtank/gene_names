@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = GeneNames::VERSION
   spec.authors       = ["Eric Harrison"]
   spec.email         = ["eharrison@smashtankapps.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Gem for access to genenames.org api}
+  spec.description   = %q{}
+  spec.homepage      = "http://github.com/smashtank/gene_names"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
